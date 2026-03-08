@@ -25,3 +25,4 @@ This lab was built to develop hands-on experience in:
 ## Tools
 - Sysmon
 - CrackMapExec
+- Atomic Red Team
